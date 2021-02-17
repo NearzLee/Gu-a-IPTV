@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Las Estrellas">
+    <display-name lang="es">Las Estrellas</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Azteca Uno">
+    <display-name lang="es">Azteca Uno</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="A+">
+    <display-name lang="es">A+</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Canal 5">
+    <display-name lang="es">Canal 5</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Imagen TV">
+    <display-name lang="es">Imagen TV</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Azteca 7">
+    <display-name lang="es">Azteca 7</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Nu9ve">
+    <display-name lang="es">Nu9ve</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Mexiquense">
+    <display-name lang="es">Mexiquense</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal Once">
+    <display-name lang="es">Canal Once</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Unicable">
+    <display-name lang="es">Unicable</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TI Novelas">
+    <display-name lang="es">TI Novelas</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Telemundo">
+    <display-name lang="es">Telemundo</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="es">E!</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="es">Lifetime</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="es">A&amp;E</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Distrito Comedia">
+    <display-name lang="es">Distrito Comedia</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="es">Comedy Central</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="ADN 40">
+    <display-name lang="es">ADN 40</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Teleformula">
+    <display-name lang="es">Teleformula</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Foro TV">
+    <display-name lang="es">Foro TV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Milenio">
+    <display-name lang="es">Milenio</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="CNN En Español">
+    <display-name lang="es">CNN En Español</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="HISTORY">
+    <display-name lang="es">HISTORY</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="es">Discovery Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Discovery World">
+    <display-name lang="es">Discovery World</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="es">Discovery Turbo</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="es">Animal Planet</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="NatGeo">
+    <display-name lang="es">NatGeo</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Natgeo Wild">
+    <display-name lang="es">Natgeo Wild</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="De Pelicula">
+    <display-name lang="es">De Pelicula</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CineCanal">
+    <display-name lang="es">CineCanal</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Golden">
+    <display-name lang="es">Golden</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="es">Warner Channel</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="es">Sony</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Paramount">
+    <display-name lang="es">Paramount</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TNT Series">
+    <display-name lang="es">TNT Series</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="es">Cinemax</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="es">Space</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="es">Studio Universal</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Universal Channel">
+    <display-name lang="es">Universal Channel</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="es">FX</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="SyFy">
+    <display-name lang="es">SyFy</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="es">FOX</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="es">FOX Life</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FOX Action">
+    <display-name lang="es">FOX Action</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FOX Series">
+    <display-name lang="es">FOX Series</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FOX Cinema">
+    <display-name lang="es">FOX Cinema</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="FOX Classics">
+    <display-name lang="es">FOX Classics</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="FOX Movies">
+    <display-name lang="es">FOX Movies</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="es">Disney Channel</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="es">Disney Junior</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="es">Discovery Kids</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="es">Boomerang</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="es">Cartoon Network</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="es">Disney XD</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="NICK">
+    <display-name lang="es">NICK</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="es">Tooncast</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Bandamax">
+    <display-name lang="es">Bandamax</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Telehit">
+    <display-name lang="es">Telehit</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="es">MTV</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="es">VH1</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="es">ESPN 3</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FOX Sports">
+    <display-name lang="es">FOX Sports</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="FOX Sports 2">
+    <display-name lang="es">FOX Sports 2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="FOX Sports 3">
+    <display-name lang="es">FOX Sports 3</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TUDN">
+    <display-name lang="es">TUDN</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="Claro Sports">
+    <display-name lang="es">Claro Sports</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+</tv>
